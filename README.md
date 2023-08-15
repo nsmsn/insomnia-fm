@@ -21,4 +21,7 @@ This list has an unfortunate bias toward places I've lived and visited, but idea
 ## Misc., Internet-only
 * [earth.fm](https://earth.fm/): Listen to nature sounds from around the world.
 * [lofi atc](https://www.lofiatc.com/): Listen to live air traffic control radio mixed with lofi hiphop.
+* [myNoise](https://mynoise.net/): Immersive and customizable soundscapes, like [Japanese Garden](https://mynoise.net/NoiseMachines/japaneseGardenSoundscapeGenerator.php) and [Medieval Village](https://mynoise.net/NoiseMachines/medievalVillageSoundscapeGenerator.php).
 * [New Sounds](https://www.newsounds.org): Genre and algorithm free, experimental, contemporary music from New York Public Radio.
+* [radio.garden](https://radio.garden/): Terrestrial radio stations around the planet. Discover something new.
+* [SomaFM](https://somafm.com/): Hand-picked internet radio. Streaming since 2000. 
